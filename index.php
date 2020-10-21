@@ -13,7 +13,7 @@
 <body>
 
 <!-- banner -->
-<div class="banner" style="background-image: url(<?echo empty($this->options->bg)?'//https://user_logo/back10.png':$this->options->bg;?>);">
+<div class="banner" style="background-image: url(<?php echo empty($this->options->bg)?'//https://user_logo/back10.png':$this->options->bg;?>);">
 	<!-- 菜单按钮 -->
 	<!-- <div class="menu menuicon hidden-xs">
 		<i class="fa fa-bars"></i>
@@ -25,7 +25,7 @@
 			<div class="col-md-12">
 				<div class="personInfo">
 					<div class="logo">
-						    <a href="<?php echo $this->options->siteUrl; ?>"><img src="<?echo empty($this->options->logo)?'//https://user_logo/head_.ico':$this->options->logo;?>" alt="logo"></a>
+						    <a href="<?php echo $this->options->siteUrl; ?>"><img src="<?php echo empty($this->options->logo)?'//https://user_logo/head_.ico':$this->options->logo;?>" alt="logo"></a>
 					</div>
 					<div class="logoTheme">
 						<h1><?php echo empty($this->options->IndexName)?$this->options->title:$this->options->IndexName ?></h1>
