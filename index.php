@@ -13,7 +13,7 @@
 <body>
 
 <!-- banner -->
-<div class="banner" style="background-image: url(<?php echo empty($this->options->bg)?'//https://user_logo/back10.png':$this->options->bg;?>);">
+<div class="banner" style="background-image: url(<?php echo empty($this->options->bg)?:$this->options->bg;?>);">
 	<!-- 菜单按钮 -->
 	<!-- <div class="menu menuicon hidden-xs">
 		<i class="fa fa-bars"></i>

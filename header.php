@@ -28,3 +28,5 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
     <script src="<?php $this->options->themeUrl('assets/js/main.js'); ?>"></script>
     <script src="<?php $this->options->themeUrl('assets/js/layer/layer.js'); ?>"></script>
 </head>
+
+
