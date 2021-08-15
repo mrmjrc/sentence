@@ -3,7 +3,7 @@
 /**
  * post.php
  * 
- * 文章页面  emmm
+ * 文章页面 文章页面修改
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 ?>

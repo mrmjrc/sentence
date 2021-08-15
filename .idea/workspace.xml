@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c6f9f7e-7eba-46f9-b635-ac10e5ba38bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="9c6f9f7e-7eba-46f9-b635-ac10e5ba38bc" name="Default Changelist" comment="Default Changelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -81,7 +77,16 @@
       <workItem from="1601271929063" duration="62000" />
       <workItem from="1601272192246" duration="17000" />
       <workItem from="1603178844449" duration="3397000" />
+      <workItem from="1627812613753" duration="103000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1627812647996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627812647996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,14 +104,8 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="793" y="221" key="RollbackChangesDialog" timestamp="1603185898757">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="793" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603185898757" />
-    <state x="763" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601271939424">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="763" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601271939424" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
 </project>
